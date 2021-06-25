@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning different programming Languages like Python, Java
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me 
--   ✨ Phone: +255 744 004 897
+- :phone: +255 744 004 897
 -   ✨ Official: deogratiasalison@yahoo.com
 -   ✨ Work: deesynertz@gmail.com 
 -   ✨ [LinkedIn](https://www.linkedin.com/in/deogratias-alison/)
