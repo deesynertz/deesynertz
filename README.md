@@ -6,6 +6,7 @@
 -   ✨ Phone: +255 744 004 897
 -   ✨ Official: deogratiasalison@yahoo.com
 -   ✨ Work: deesynertz@gmail.com 
+-   ✨ [facebook Page](https://www.facebook.com/deesynertz)
 -   ✨ [LinkedIn](https://www.linkedin.com/in/deogratias-alison/)
 -   ✨ [GitHub](https://github.com/deesynertz/)
 
