@@ -6,6 +6,8 @@
 -    Phone: +255 744 004 897
 -    Official: deogratiasalison@yahoo.com,
 -    Work: deesynertz@gmail.com 
+-    [LinkedIn](https://www.linkedin.com/in/deogratias-alison/)
+-    [GitHub](https://github.com/deesynertz/)
 
 <!---
 deesynertz/deesynertz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
