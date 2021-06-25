@@ -3,15 +3,15 @@
 - 🌱 I’m currently learning different programming Languages like Python, Java
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me 
-- :phone: +255 744 004 897
--   ✨ Official: deogratiasalison@yahoo.com
--   ✨ Work: deesynertz@gmail.com 
--   ✨ [LinkedIn](https://www.linkedin.com/in/deogratias-alison/)
--   ✨ [Twitter](https://www.twitter.com/deoalison/)
--   ✨ [Instagram](https://www.instagram.com/deesynertz/)
--   ✨ [facebook Page](https://www.facebook.com/deesynertz)
--   
-- [GitHub](https://github.com/deesynertz/)
+- :iphone: +255 744 004 897
+- :email: (Official) deogratiasalison@yahoo.com
+- :email: (Work) deesynertz@gmail.com 
+- :link: [LinkedIn](https://www.linkedin.com/in/deogratias-alison/)
+- :link: [Twitter](https://www.twitter.com/deoalison/)
+- :link: [Instagram](https://www.instagram.com/deesynertz/)
+- :link: [facebook Page](https://www.facebook.com/deesynertz)
+   
+- :link: [GitHub](https://github.com/deesynertz/)
 
 <!---
 deesynertz/deesynertz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
