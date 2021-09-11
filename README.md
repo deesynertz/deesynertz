@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deesynertz
+- 👋 Hi, I’m Deogratias Alison [@deesynertz](https://github.com/deesynertz/)
 - 👀 I’m interested in (Real Estate developement Systems)
 - 🌱 I’m currently learning different programming Languages including Python, Java
 - 💞️ I’m looking to collaborate on my projects
