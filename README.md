@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deogratias Alison</h1>
-<h3 align="center">A passionate Full-Stack developer | interested in Real Estate Development  from Tanzania</h3>
+<h3 align="center">A passionate Full-Stack developer | interested in Real Estate, eCommerce, CMS Development  from Tanzania</h3>
 
 
 
