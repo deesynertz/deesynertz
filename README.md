@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deogratias Alison</h1>
+<h1 align="center">Hi 👋, I'm Deogratias Alison R.</h1>
 <h3 align="center">A passionate Full-Stack developer | interested in Real Estate, eCommerce, CMS Development  from Tanzania</h3>
 
 
