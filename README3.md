@@ -1,26 +1,10 @@
-# Deogratias Alison
-
-<h3>A passionate Full-Stack developer | interested in Real Estate Development  from Tanzania</h3>
-<br>
+# Abdallah Samy
 
 [![Github](https://img.shields.io/github/followers/deesynertz?label=Follow&style=social)](https://github.com/deesynertz)
 [![Linkedin](https://img.shields.io/badge/-Deogratias%20Alison-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/deogratias-alison/)](https://www.linkedin.com/in/deogratias-alison/)
 [![Mail](https://img.shields.io/badge/-deesynertz@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:deesynertz@gmail.com)
 
-
-<br>
-
-<img align="" alt="Deesynertz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deesynertz&show_icons=true&hide_border=true&count_private=true" />
-
-<br>
-
-<p align="left"> <a href="https://twitter.com/deoalison" target="blank"><img src="https://img.shields.io/twitter/follow/deoalison?logo=twitter&style=for-the-badge" alt="deoalison" /></a> </p>
-
-[![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/deesynertz)
-[![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deesynertz/)
-
-<br>
-
+[![Codersrank widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=deesynertz&layout=horizontal&width=240&badges=3&branding=false&style=--header-bg-color:%23111;--border-radius:10px;--name-font-size:0.8em;--rank-font-size:0.5em;--bg-color:%23222;--badge-bg-color:%23111;--badge-text-color:%23aaa)](https://profile.codersrank.io/user/abdallhsamy/)
 
 ## About me
 
@@ -28,8 +12,6 @@
 As the cognitive path about computers was related to remote technologies., so I am focused on programming languages and IT systems which helps to communicate and complete tasks from a distance.
 My main back-end scripting language is PHP, Javascript (Node JS) and for the front-end currently, I am using Angular (Javascript Framework) and Laravel (PHP framework).
 I am able to design systems by finding all functional and non-functional requirements, and providing the best solution to minimize the cost.
-
-<br>
 
 ## Stack I work with
 
@@ -79,8 +61,6 @@ I am able to design systems by finding all functional and non-functional require
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/font-awesome/font-awesome-ar21.svg"></code>
 
-<br>
-
 ## My Skills
 
 `DevOps`
@@ -119,10 +99,7 @@ I am able to design systems by finding all functional and non-functional require
 `Hardware Maintenance`
 `Design Pattern`
 
-<br>
-<h2 align="left">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/deesynertz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="deesynertz" /></a></p><br><br><br><br>
-
+<img align="left" alt="Deesynertz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deesynertz&show_icons=true&hide_border=true&count_private=true" />
 
 ## Contact Me
 
