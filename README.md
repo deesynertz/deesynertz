@@ -18,9 +18,15 @@
 
 ## Github Stats  
 
-<div align="left">
+<!-- <div align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=deesynertz&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align=""/>
-</div>  
+</div>   -->
+
+<br>
+
+<img align="" alt="Deesynertz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deesynertz&show_icons=true&hide_border=true&count_private=true" />
+
+<br>
 
 <!-- <div align="left">
   <img src="https://komarev.com/ghpvc/?username=deesynertz&&style=flat-square&theme=github_dark" align="center" />
