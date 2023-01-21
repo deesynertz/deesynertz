@@ -5,7 +5,7 @@
 
 ## About me
 
-> <p align="justify"> A self-motivated person, who has a big passion for web technologies. I have a big curiosity to understand how computers working and what they can do for us. As the cognitive path about computers was related to remote technologies., so I am focused on programming languages and IT systems which helps to communicate and complete tasks from a distance. My main back-end scripting language is PHP, Javascript (Node JS) and for the front-end currently, I am using Angular (Javascript Framework) and Laravel (PHP framework). I am able to design systems by finding all functional and non-functional requirements, and providing the best solution to minimize the cost.</p>
+> <p align="justify"> Hello, I am a self-motivated individual with a passion for technologies. I have a strong curiosity for understanding how computers work and the various ways they can be utilized to improve our daily lives. With a focus on remote technologies, I specialize in programming languages and IT systems that allow for seamless communication and task completion. My primary skills include PHP, Javascript (Node JS) for back-end development, and Angular and Laravel (PHP framework) for front-end development. I am skilled in identifying and addressing both functional and non-functional requirements to provide the most cost-effective solutions.</p>
 <br>
 
 [![Github](https://img.shields.io/github/followers/deesynertz?label=Follow&style=social)](https://github.com/deesynertz)
