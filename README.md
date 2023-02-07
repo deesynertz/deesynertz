@@ -6,13 +6,12 @@
 ## About me
 
 > <p align="justify"> Hello, I am a self-motivated individual with a passion for technologies. I have a strong curiosity for understanding how computers work and the various ways they can be utilized to improve our daily lives. With a focus on remote technologies, I specialize in programming languages and IT systems that allow for seamless communication and task completion. My primary skills include PHP, Javascript (Node JS) for back-end development, and Angular and Laravel (PHP framework) for front-end development. I am skilled in identifying and addressing both functional and non-functional requirements to provide the most cost-effective solutions.</p>
+
 <br>
 
 [![Github](https://img.shields.io/github/followers/deesynertz?label=Follow&style=social)](https://github.com/deesynertz)
 [![Linkedin](https://img.shields.io/badge/-Deogratias%20Alison-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/deogratias-alison/)](https://www.linkedin.com/in/deogratias-alison/)
 [![Mail](https://img.shields.io/badge/-deesynertz@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:deesynertz@gmail.com)
-
-
 
 <br>
 
@@ -25,6 +24,12 @@
 <br>
 
 <img align="" alt="Deesynertz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deesynertz&show_icons=true&hide_border=true&count_private=true" />
+
+<br>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deesynertz&show_icons=true&layout=compact" />
+</a>
 
 <br>
 
