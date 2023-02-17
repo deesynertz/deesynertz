@@ -35,7 +35,7 @@
 ## Stack I work with
 
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,php,laravel,python,django,html,css,javascript,typescript,java,spring,bootstrap,tailwind,nodejs,express,angular,git,github,docker,linux,vscode,vim,photoshop,illustrator&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,php,laravel,python,django,html,css,javascript,typescript,java,spring,bootstrap,tailwind,nodejs,express,angular,git,github,docker,linux,atom,vscode,vim,photoshop,illustrator&theme=dark" />
   </a>
 <br />
 
